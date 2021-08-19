@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/BoreyLee/Gitee/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/BoreyLee/Gitee/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/home",
+        "_name": "_f139503c"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/BoreyLee/Gitee/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/article",
+        "_name": "_562e31da"
+      },
+      {
+        "path": "/editor/:slug",
+        "name": "editor",
+        "component": "/Users/BoreyLee/Gitee/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/editor",
+        "_name": "_3631cfb0"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/BoreyLee/Gitee/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/login",
+        "_name": "_653fecc6"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/BoreyLee/Gitee/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/login",
+        "_name": "_653fecc6"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/BoreyLee/Gitee/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/profile",
+        "_name": "_23c2b874"
+      },
+      {
+        "path": "/setting",
+        "name": "setting",
+        "component": "/Users/BoreyLee/Gitee/lagoufed-e-task/part3/fed-e-task-03-03/code/realworld-nuxtjs/pages/setting",
+        "_name": "_76ef286d"
+      }
+    ],
+    "_name": "_4200a96d"
+  }
+]
