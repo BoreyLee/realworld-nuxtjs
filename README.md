@@ -31,3 +31,31 @@
 │   └── request.js
 └── yarn.lock
 ```
+
+## [AIP 文档](https://github.com/gothinkster/realworld/tree/master/api)
+
+## [参考网站](https://demo.realworld.io/#/)
+
+## 安装依赖
+
+```
+yarn install
+```
+
+## 启动开发服务
+
+```
+yarn dev
+```
+
+## 打包
+
+```
+yarn build
+```
+
+## 启动生产服务
+
+```
+yarn start
+```
